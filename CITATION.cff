@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite the repository."
+title: "Wages, Inflation, and Purchasing Power in Armenia (2019–2024)"
+type: software
+authors:
+  - family-names: "Your Last Name"
+    given-names: "Your First Name"
+version: 1.0.0
+date-released: 2026-09-08
