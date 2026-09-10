@@ -141,7 +141,7 @@ You can also open `analysis/wages_purchasing_power.ipynb` in Jupyter Notebook or
 
 ## Author
 
-**[Your Name]**  
+**Nane Narimanyan**  
 Data Science student | Economic and data analysis
 
 ## License
